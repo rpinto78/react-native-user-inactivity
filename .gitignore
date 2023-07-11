@@ -59,4 +59,4 @@ typings/
 .env
 
 # compiled files
-lib/
+#lib/

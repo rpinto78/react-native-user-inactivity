@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.1.0",
-    "@types/react-native": "0.70.12",
+    "@types/react-native": "^0.74.0",
     "@types/react-native-background-timer": "^2.0.0",
     "react-native-background-timer": "rpinto78/react-native-background-timer",
     "rimraf": "^2.6.3",
@@ -42,8 +42,8 @@
     "ws": ">=3.3.1"
   },
   "peerDependencies": {
-    "react": "18.1.0",
-    "react-native": "0.70.12",
+    "react": "^18.1.0",
+    "react-native": "^0.74.0",
     "react-native-background-timer": "rpinto78/react-native-background-timer"
   }
 }

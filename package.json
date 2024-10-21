@@ -43,7 +43,7 @@
   },
   "peerDependencies": {
     "react": "18.2.0",
-    "react-native": "0.74.1",
+    "react-native": "~0.74.1",
     "react-native-background-timer": "rpinto78/react-native-background-timer"
   }
 }
